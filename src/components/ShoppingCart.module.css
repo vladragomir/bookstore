@@ -1,0 +1,9 @@
+.ShoppingCart {
+  padding: 10px;
+  border-left: 1px solid #ccc;
+  width: 25%;
+}
+
+.CartItem {
+  margin-bottom: 10px;
+}

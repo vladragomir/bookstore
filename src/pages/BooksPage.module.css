@@ -1,0 +1,7 @@
+.BooksPage {
+  display: flex;
+}
+
+.BookListWrapper {
+  flex: 1;
+}
